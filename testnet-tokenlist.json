@@ -1,0 +1,38 @@
+{
+    "name": "Futures Token List",
+    "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+    "keywords": [
+        "audited",
+        "verified",
+        "special tokens"
+    ],
+    "timestamp": "2020-09-12T00:00:00+00:00",
+    "tokens": [
+        {
+            "chainId": 3,
+            "address": "0x4228b7226756db7d67e39e8e90d0acae5b0f70ce",
+            "symbol": "FUSD",
+            "name": "Fake USD",
+            "decimals": 4
+        },
+        {
+            "chainId": 3,
+            "address": "0x4228b7226756db7d67e39e8e90d0acae5b0f70ce",
+            "symbol": "FUSD",
+            "name": "Fake USD",
+            "decimals": 4
+        },
+        {
+            "chainId": 3,
+            "address": "0x553699a71ab79cc5230cf6d55561fbd8b13bb4a8",
+            "symbol": "FBTC",
+            "name": "Fake BTC",
+            "decimals": 8
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
